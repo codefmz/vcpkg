@@ -10496,6 +10496,10 @@
       "baseline": "2025-08-05",
       "port-version": 0
     },
+    "vcpkg-lib": {
+      "baseline": "1.0.0",
+      "port-version": 0
+    },
     "vcpkg-make": {
       "baseline": "2026-01-01",
       "port-version": 0
